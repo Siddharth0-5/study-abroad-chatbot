@@ -1,1 +1,1 @@
-# study-abroad-chatbot
+# study-abroad-chatbott
