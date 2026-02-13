@@ -1,0 +1,9 @@
+{
+  "name": "study-abroad-chatbot",
+  "version": "1.0.0",
+  "description": "Study abroad chatbot API",
+  "main": "api/chat.js",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0"
+  }
+}
